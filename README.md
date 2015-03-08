@@ -1,5 +1,6 @@
 # Credit-Card-Validator
 Validate a credit card by checksum and find if the card is VISA, MASTERCARD, or AMEX
+
 I wrote this program from my computer science class. This is my own work. Please do not use this code as your own work for acedmecic credit.
 
 *** following is for my own documentation ***
