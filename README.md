@@ -3,5 +3,6 @@ Validate a credit card number by its checksum and find if the card is VISA, MAST
 Runs on the command line.
 
 ### Usage
-1. Compile on the command line with favorite C compiler
-2. Run the program and follow the prompts
+1. Install cs50 C library found [here](https://manual.cs50.net/library/)
+1. Compile credit_card_validator.c. (Remember to link the cs50 library properly)
+2. Run the program and follow the prompt.
